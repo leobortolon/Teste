@@ -1,0 +1,2 @@
+<?php
+echo "Bom dia";
